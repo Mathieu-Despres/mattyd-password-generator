@@ -29,7 +29,7 @@
 <br />
 <div align="center">
   <a href="https://mathieu-despres.github.io/HTML-CSS-code-refactor">
-    <img src="Develop/Images/password-generator-icon.svg" alt="Logo" width="128" height="128">
+    <img src="./Develop/images/password-generator-icon.svg" alt="Logo" width="128" height="128">
   </a>
 
 <h3 align="center">Password Generator</h3>
@@ -74,7 +74,7 @@
 
 <div align="center">
   <a href="https://mathieu-despres.github.io/mattyd-password-generator/">
-    <img src="Develop/Images/03-javascript-homework-demo.png" alt="Logo" width="50%">
+    <img src="./Develop/images/03-javascript-homework-demo.png" alt="Logo" width="50%">
   </a>
   </div><br>
 
