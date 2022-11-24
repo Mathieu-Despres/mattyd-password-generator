@@ -28,7 +28,7 @@
 
 <br />
 <div align="center">
-  <a href="https://mathieu-despres.github.io/HTML-CSS-code-refactor">
+  <a href="https://mathieu-despres.github.io/mattyd-password-generator">
     <img src="./Develop/images/password-generator-icon.svg" alt="Logo" width="128" height="128">
   </a>
 
